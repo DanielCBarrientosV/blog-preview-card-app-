@@ -1,0 +1,20 @@
+.red {
+  background: red;
+  size: 24px;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.descripcion{
+    font-size: 20px;
+}
+
+p{
+    color:burlywood;
+}
+
+#titulo{
+    font-size: 32px;
+} 
